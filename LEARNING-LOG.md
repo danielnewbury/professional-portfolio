@@ -40,16 +40,12 @@ Started fresh instead of continuing with disorganized past work. Clean slate = p
 - Deciding between old account and fresh start (chose fresh start)
 
 **Tomorrow's Goal:**
-- Add first project to portfolio
-- Document one technical problem and solution
-- Make first proper git commit with professional message
-- Learn basic Terraform syntax - create first .tf file
 - Understand git branching - create my first feature branch
 
 **Reflection:**
-This is the beginning. Not about perfection, but about consistent progress and documentation.
-Excited to finally get organized after years of scattered learning.
-Nervous about committing to daily updates, but I know it's necessary.
+- This is the beginning. Not about perfection, but about consistent progress and documentation.
+- Excited to finally get organized after years of scattered learning.
+- Nervous about committing to daily updates, but I know it's necessary.
 ---
 
 ### December 7, 2025 - Day 2:
