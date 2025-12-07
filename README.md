@@ -29,6 +29,9 @@ I'm Daniel Newbury, transitioning from hobby coder to professional cloud infrast
 Infrastructure automation project using Ansible, Terraform, Traefik, and Bash.  
 [View repo →](https://github.com/danielnewbury/instances_2026)
 
+### Governed Systems
+Basic baby steps, learning to crawl and stand up
+[View_repo →](https://github.com/danielnewbury/governed_systems)
 
 ### Completed Projects
 *Projects will be added here as I complete them*
