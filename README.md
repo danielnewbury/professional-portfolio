@@ -24,7 +24,11 @@ I'm Daniel Newbury, transitioning from hobby coder to professional cloud infrast
 ## 📚 Projects
 
 ### Active Projects
-*Coming soon - building in public*
+
+### instances_2026
+Infrastructure automation project using Ansible, Terraform, Traefik, and Bash.  
+[View repo →](https://github.com/danielnewbury/instances_2026)
+
 
 ### Completed Projects
 *Projects will be added here as I complete them*
