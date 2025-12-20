@@ -32,6 +32,10 @@ Infrastructure automation project using Ansible, Terraform, Traefik, and Bash.  
 Basic baby steps, learning to crawl and stand up
 [View_repo →](https://github.com/danielnewbury/governed_systems)
 
+### MS2027
+Media server automation project
+[View_repo →](https://github.com/danielnewbury/ms2027)
+
 ### Completed Projects
 *Projects will be added here as I complete them*
 
