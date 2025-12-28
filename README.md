@@ -4,7 +4,7 @@
 
 I'm Daniel Newbury, transitioning from hobby coder to professional cloud infrastructure and automation engineer. This repository tracks my learning journey and showcases my projects as I build expertise in modern DevOps practices.
 
-**Current Focus:** AWS, GCP, Terraform, Ansible, Docker, and Infrastructure as Code
+**Current Focus:** HCP, AWS, GCP, Terraform, Ansible, Docker, and Infrastructure as Code
 
 **Location:** United Kingdom  
 **Status:** Available for freelance projects
@@ -48,12 +48,12 @@ Traefik v3 migration from v2
 
 ## 🛠️ Tech Stack
 
-**Cloud Platforms:** AWS, GCP, HCP, Linode
-**Infrastructure as Code:** Terraform, Ansible
-**Containerization:** Docker  
-**Security:** SOPS (age)
-**Version Control:** Git, GitHub  
-**Operating Systems:** Linux (debian)
+**Cloud Platforms:** AWS, GCP, HCP, Linode.
+**Infrastructure as Code:** Terraform, Ansible.
+**Containerization:** Docker.
+**Security:** SOPS (age).
+**Version Control:** Git, GitHub.  
+**Operating Systems:** Linux (debian).
 
 ---
 
