@@ -48,12 +48,12 @@ Traefik v3 migration from v2
 
 ## 🛠️ Tech Stack
 
-**Cloud Platforms:** AWS, GCP, HCP, Linode.
-**Infrastructure as Code:** Terraform, Ansible.
-**Containerization:** Docker.
-**Security:** SOPS (age).
-**Version Control:** Git, GitHub.  
-**Operating Systems:** Linux (debian).
+**Cloud Platforms:** AWS, GCP, HCP, Linode          
+**Infrastructure as Code:** Terraform, Ansible     
+**Containerization:** Docker    
+**Security:** SOPS (age)   
+**Version Control:** Git, GitHub     
+**Operating Systems:** Linux (debian)   
 
 ---
 
