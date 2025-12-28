@@ -67,8 +67,10 @@ I maintain a learning log to track progress and document solutions to problems I
 
 ## 📫 Get In Touch
 
-- **GitHub:** [@danielnewbury](https://github.com/danielnewbury)
-- **Email:** danielnewbury.dev@protonmail.com
+[![GitHub](https://img.shields.io/badge/GitHub-@danielnewbury-white?logo=github&logoColor=white&color=181717)](https://github.com/danielnewbury)
+[![Email](https://img.shields.io/badge/Email-ProtonMail-white?logo=protonmail&logoColor=white&color=6D4AFF)](mailto:danielnewbury.dev@protonmail.com)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow?logo=buy-me-a-coffee)](https://buymeacoffee.com/danielnewbury)
+
 
 ---
 
