@@ -36,6 +36,11 @@ Basic baby steps, learning to crawl and stand up
 Media server automation project
 [View_repo →](https://github.com/danielnewbury/ms2027)
 
+### HCP 2026
+Hashicorp Cloud Platform - Terraform Online
+Traefik v3 migration from v2
+[View_repo →](https://github.com/danielnewbury/monitoring-docker-stack)
+
 ### Completed Projects
 *Projects will be added here as I complete them*
 
